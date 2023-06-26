@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica checkbox</string>
+    <string name="valor1">Primer valor</string>
+    <string name="valor2">Segundo valor</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="resultado">Resultado</string>
+    <string name="sumar">Sumar</string>
+    <string name="restar">Restar</string>
+</resources>
